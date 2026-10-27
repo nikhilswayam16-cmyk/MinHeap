@@ -15,6 +15,10 @@ gain useful insights about the system using such projects and give them finer co
 in optimization a code or debugging it.
 
 ![INPUT](screenshots/INPUT.png)
+
+
+
+
 ![OUTPUT](screenshots/OUTPUT.png)
 
 ## INSTALLATION
