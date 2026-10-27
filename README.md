@@ -14,7 +14,24 @@ starting point for learning about the low level implementation logic of frequent
 gain useful insights about the system using such projects and give them finer control over the program and can some times help
 in optimization a code or debugging it.
 
+
+
+
+
+
 ![INPUT](screenshots/INPUT.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
