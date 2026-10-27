@@ -3,7 +3,7 @@
 This is a simple mini-project  where I have implemented MIN-HEAP in pure C. This project can provide useful guidance and can
 illustrate low level handling of so many STL we use day-to-day.
 
-##Features
+## Features
 It is educational purpose coding project for implementing MinHeap.
 -Implemented in pure C
 -Low-Level 
@@ -17,7 +17,7 @@ in optimization a code or debugging it.
 ![INPUT](screenshots/INPUT.png)
 ![OUTPUT](screenshots/OUTPUT.png)
 
-##INSTALLATION
+## INSTALLATION
  ```bash
 git clone <https://github.com/nikhilswayam16-cmyk/MinHeap>
 git cd MinHeap
